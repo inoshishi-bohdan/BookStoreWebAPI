@@ -222,6 +222,6 @@ Request body
 ## Acknowledgements
 
  - [Swagger](https://swagger.io/)
- - [Trevoir Williams]([https://swagger.io/](https://www.youtube.com/@TrevoirWilliams)https://www.youtube.com/@TrevoirWilliams)
+ - [Trevoir Williams](https://swagger.io/](https://www.youtube.com/@TrevoirWilliams)https://www.youtube.com/@TrevoirWilliams)
 
 
