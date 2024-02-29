@@ -12,6 +12,11 @@ BookStoreWebAPI is a simple REST API designed for managing a book store. It prov
 - **Entity Framework**: Database interactions are handled using Entity Framework.
 - **Swagger**: Explore and test the API easily with Swagger documentation.
 
+## Prerequisites
+
+- [Visual Studio](https://visualstudio.microsoft.com/) or [Visual Studio Code](https://code.visualstudio.com/) for development.
+- [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) for the database.
+
 
 ## API Reference
 ### Authors
@@ -222,4 +227,5 @@ Request body
 ## Acknowledgements
 
  - [Swagger](https://swagger.io/)
+ - [AutoMapper](https://docs.automapper.org/en/stable/#)
 
