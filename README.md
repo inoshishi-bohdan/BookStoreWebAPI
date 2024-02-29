@@ -10,6 +10,7 @@ BookStoreWebAPI is a simple REST API designed for managing a book store. It prov
 
 - **ASP.NET Core**: The API is built using ASP.NET Core for cross-platform compatibility.
 - **Entity Framework**: Database interactions are handled using Entity Framework.
+- **AutoMapper**: Streamlining the mapping between entities and DTOs for enhanced productivity.
 - **Swagger**: Explore and test the API easily with Swagger documentation.
 
 ## Prerequisites
